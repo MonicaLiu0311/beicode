@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
 
-set(beicode_VERSION 1.0.0)
+set(beicode_VERSION 2.0.0)
 
 project(beicode
 	VERSION ${beicode_VERSION}
